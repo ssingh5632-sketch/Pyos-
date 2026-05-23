@@ -1,2 +1,9 @@
-# Pyos-
-It made for those people who wants privacy for its content and your file were save in your own local hardisk ,but it CLI based means command based ,so that if you want to know the commands , then type "help"in your pyos terminal  
+# Pyos v2.0 🚀
+
+Pyos v2.0 is an advanced, interactive command-line interface (CLI) written entirely in Python. It simulates a lightweight, local operating system environment directly inside your terminal, providing a structured and secure way to manage tasks and execute utilities.
+
+### 🌟 Key Features
+* **Interactive Shell:** A custom-built CLI environment that processes user commands smoothly.
+* **Built-in Utilities:** Core system simulations including basic file handling, system information displays, and utility tools.
+* **Pure Python:** Zero heavy external dependencies—lightweight, fast, and highly portable.
+* **Enhanced for v2.0:** Optimized command processing, cleaner terminal output, and a more robust code structure.
