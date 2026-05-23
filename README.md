@@ -7,3 +7,11 @@ Pyos v2.0 is an advanced, interactive command-line interface (CLI) written entir
 * **Built-in Utilities:** Core system simulations including basic file handling, system information displays, and utility tools.
 * **Pure Python:** Zero heavy external dependencies—lightweight, fast, and highly portable.
 * **Enhanced for v2.0:** Optimized command processing, cleaner terminal output, and a more robust code structure.
+
+* 
+#Persistent Storage
+
+State auto-saves to .pyos_state.json after every command — VFS, env vars, aliases, history, users, notes, and cron jobs all survive restarts
+save — manually force a save
+load — reload state from disk mid-session
+reset — wipe all saved state (with confirmation prompt)
