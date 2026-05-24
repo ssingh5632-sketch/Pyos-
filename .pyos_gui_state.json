@@ -1,0 +1,134 @@
+{
+  "vfs": {
+    "/": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/home": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/home/user": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/home/user/Documents": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/home/user/Downloads": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/etc": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/bin": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/tmp": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/var": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/var/log": {
+      "_type": "dir",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45"
+      }
+    },
+    "/home/user/readme.txt": {
+      "_type": "file",
+      "_data": "Welcome to PyOS GUI!\nType 'help' in the terminal for commands.\n",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45",
+        "size": 60
+      }
+    },
+    "/etc/motd": {
+      "_type": "file",
+      "_data": "PyOS GUI 2.0 \u2014 Python Desktop OS Simulator\n",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45",
+        "size": 43
+      }
+    },
+    "/var/log/syslog": {
+      "_type": "file",
+      "_data": "[2026-05-24 08:44:45] PyOS GUI kernel started.\n",
+      "_meta": {
+        "created": "2026-05-24 08:44:45",
+        "modified": "2026-05-24 08:44:45",
+        "size": 40
+      }
+    }
+  },
+  "env": {
+    "SHELL": "/bin/pysh",
+    "USER": "user",
+    "HOME": "/home/user",
+    "PATH": "/bin:/usr/bin",
+    "OS": "PyOS",
+    "VER": "2.0",
+    "TERM": "pyterm"
+  },
+  "aliases": {},
+  "history": [
+    "ls /home/user",
+    "ls /home/user",
+    "ls /home/user/Downloads",
+    "ls /etc",
+    "ls /tmp",
+    "clear",
+    "ls /home/user/Documents",
+    "ls /var/log",
+    "ls /tmp",
+    "ls /home/user/Documents",
+    "ls /home/user/Downloads",
+    "write"
+  ],
+  "cwd": "/home",
+  "users": {
+    "user": {
+      "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "home": "/home/user"
+    }
+  },
+  "cron": [],
+  "notes": []
+}
