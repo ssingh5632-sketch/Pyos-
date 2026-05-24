@@ -10,3 +10,10 @@ Pyos v2.0 is an advanced, interactive command-line interface (CLI) written entir
 
 Note - **State auto-saves to .pyos_state.json after every command — VFS, env vars, aliases, history, users, notes, and cron jobs all survive restarts.**
 
+## 🖥️ Pyos (GUI Version)
+
+Pyos now features a graphical interface (`pyos_gui.py`)! This is a **hybrid/partial GUI** designed to bridge the gap between a visual window and a command-line workflow.
+
+* **100% Feature Parity:** It includes all the exact same features, utilities, and auto-save mechanics as the core CLI version (`Pyos_v2_0.py`).
+* **Command-Driven Interface:** It is not a fully mouse-driven GUI. Interaction is still powered by commands so you can maintain total control.
+* **Getting Started:** If you want to know how to use it, simply run the application and type **`help`** in the input field to see all available system commands.
